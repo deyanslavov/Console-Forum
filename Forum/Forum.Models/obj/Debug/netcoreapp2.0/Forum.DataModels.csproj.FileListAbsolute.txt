@@ -1,0 +1,9 @@
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.dll
+E:\Coding\SoftUni\C# OOP Advanced\Workshop\Forum\Forum.Models\obj\Debug\netcoreapp2.0\Forum.DataModels.pdb
